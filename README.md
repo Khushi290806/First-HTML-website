@@ -1,2 +1,3 @@
 # First-HTML-website
-This was the first website made using HTML (a feedback form).
+How to run:
+Open index.html in browser.
